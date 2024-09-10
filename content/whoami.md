@@ -29,7 +29,7 @@ I started getting interested in low-level programming when I got into cheat deve
 
 Right now I am working as an analyst in a SOC with multiple EDR technologies. I am working on starting my own cybersecurity company as well, but I'll talk about it when the appropriate time comes, I can't share lots of details right now as I prefer to touch that subject when the company will actually exist.
 
-I am still as enthusiastic as I was back then about anything low-level, albiet with less time at my disposal. My work takes a lot of my time, but whenever I have the chance I always like to read up research on anything low-level and to work on my own projects as well.
+I am still as enthusiastic as I was back then about anything low-level, albeit with less time at my disposal. My work takes a lot of my time, but whenever I have the chance I always like to read up research on anything low-level and to work on my own projects as well.
 
 I do watch football (or "soccer" for my american readers), I have Inter Milan close to my heart and I do follow them a lot. I am a big Nintendo fan, proven by the fact that I own two Nintendo Switches, one of them is modded with a Picofly modchip. I grew up with Pokemon since I was 6, so I consider that franchise to be my favourite, even if lately Game Freak is not publishing good Pokemon games.
 
