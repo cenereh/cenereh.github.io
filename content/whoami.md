@@ -23,7 +23,7 @@ And if I ever forget something that I previously did (which happens very often),
 
 ## More about me:
 
-I got for the first time into cybersecurity when I was 7, when I made my very first "malware" using Visual Basic scripting. It wasn't actual malware, but a simple error text box which said "you have opened a virus" or something like that. An harmless prank that I did make on my dad and my sister. My dad, which is a retired software engineer, knew what "openme.vbs" was, and I think that I made him really proud. My sister got scared shitless, to mine and my father's amusement. That was my very first contact with the world of Cybsersecurity.
+I got for the first time into cybersecurity when I was 7, when I made my very first "malware" using Visual Basic scripting. It wasn't actual malware, but a simple error text box which said "you have opened a virus" or something like that. A harmless prank that I did make on my dad and my sister. My dad, which is a retired software engineer, knew what "openme.vbs" was, and I think that I made him really proud. My sister got scared shitless, to mine and my father's amusement. That was my very first contact with the world of Cybsersecurity.
 
 I started getting interested in low-level programming when I got into cheat development at the age of 14. I never made anything spectacular at the time, but I did put lots of effort into learning how to reverse engineer software and how to code in C and x86 Assembly. I also got further into malware development when I was 18, learning Windows internal mechanisms from the Windows Internals book and a tiny bit of kernel programming.
 
