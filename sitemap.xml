@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://x86.engineering/</loc>
+    </url>
+    <url>
+        <loc>https://x86.engineering/archive/</loc>
+    </url>
+    <url>
+        <loc>https://x86.engineering/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://x86.engineering/tags/</loc>
+    </url>
+    <url>
+        <loc>https://x86.engineering/tags/introduction/</loc>
+    </url>
+    <url>
+        <loc>https://x86.engineering/whoami/</loc>
+        <lastmod>2023-07-17</lastmod>
+    </url>
+</urlset>
